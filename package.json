@@ -1,0 +1,14 @@
+{
+  "name": "simplenode",
+  "version": "1.0.0",
+  "description": "Simple nodejs starter app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Michael Dempsey",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
